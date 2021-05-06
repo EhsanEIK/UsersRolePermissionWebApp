@@ -52,4 +52,3 @@ Procedure:
 #Login Info
 Super Admin = rahimahmed@gmail.com:123456
 Admin       = faiaz@gmail.com:123455
-User        = habib@gmail.com:123123
